@@ -1,0 +1,1 @@
+let isCool:boolean = true;
